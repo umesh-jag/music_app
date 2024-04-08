@@ -1,4 +1,4 @@
-# sushi_app
+# Minimal Music App
 
 A new Flutter project.
 
